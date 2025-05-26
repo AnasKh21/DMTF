@@ -28,7 +28,7 @@ Visual output of tone detection and spectrogram display:
 1. Install required packages:
    
    pip install numpy matplotlib librosa einops
-
+   ```bash
 2. Launch the Jupyter notebook:
    ```bash
    jupyter notebook DTMF.ipynb
