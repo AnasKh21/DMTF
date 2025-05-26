@@ -18,11 +18,6 @@ This project implements a full pipeline to generate and decode DTMF (Dual-Tone M
 - Matplotlib
 - Einops
 
-## 📸 Example
-
-Visual output of tone detection and spectrogram display:
-*(Add a screenshot if you want)*
-
 ## ▶️ How to Run
 
 1. Install required packages:
